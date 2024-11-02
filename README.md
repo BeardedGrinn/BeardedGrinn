@@ -3,6 +3,7 @@
 I'm BeardedGrinn, I live in the Uk and I'm studying Coding with the Coding Bootcamp.
 
 🌱 I'm currently learning front end and back end
+
 🐺 I have a lovely dog named Lena
 
 
