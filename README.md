@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Mitch and I'm an aspiring full stack development from The School of Code.</h2>
+<h2 align="left">Hi! My name is Mitch and I'm a Full time student at BCU.</h2>
 
 ###
 
